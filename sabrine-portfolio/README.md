@@ -18,7 +18,6 @@ Put your CV PDF inside the `public` folder and name it:
 ## Customize
 
 Edit `src/main.jsx` to change:
-
 - name
 - bio
 - skills
@@ -30,7 +29,6 @@ Edit `src/main.jsx` to change:
 Edit `src/style.css` to change the colors, animations and layout.
 
 The portfolio includes:
-
 - Responsive React design
 - Dark / light mode
 - Smooth scrolling

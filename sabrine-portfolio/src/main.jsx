@@ -35,7 +35,6 @@ const projects = [
     text: "Movie Website for discovering films with search and detailed information.",
     tags: ["HTML", "CSS", "React"],
     image: popcorn,
-    href: "https://github.com/Sabrine620/PopCorn",
   },
   {
     title: "Pizza Hause",
