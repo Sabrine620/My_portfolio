@@ -68,7 +68,7 @@ const projects = [
 
   {
     title: "Bank Manager ",
-    text: "REST API for task management with authentication and database integration.",
+    text: "Developed a banking web application with money transfer functionality.",
     tags: ["JavaScript"],
     image: bank,
     href: "https://github.com/Sabrine620/Bank_Project",
