@@ -1,4 +1,4 @@
-# Sabri Modern Portfolio
+# Sabrine Modern Portfolio
 
 ## Run the project
 
