@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./style.css";
-import cv from "./assets/projects/CV-Sabrine.pdf";
+import cv from "./assets/projects/CV_Sabrine.pdf";
 
 import coeffe from "./assets/projects/coeffe.png";
 import bank from "./assets/projects/Bank-project.png";
@@ -136,7 +136,7 @@ function App() {
         </nav>
 
         <div className="nav-actions">
-          <a className="cv-btn" href={cv} download="CV-Sabrine.pdf">
+          <a className="cv-btn" href={cv} download="CV_Sabrine.pdf">
             ↓ Download CV
           </a>
 
