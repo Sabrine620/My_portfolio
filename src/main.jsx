@@ -409,7 +409,7 @@ function App() {
                   GitHub
                 </a>
                 <a
-                  href="https://linkedin.com/"
+                  href="https://www.linkedin.com/in/sabrine-salah/"
                   target="_blank"
                   rel="noreferrer"
                 >
